@@ -1,0 +1,38 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.container{
+  height: 100vh;
+  width: 100%;
+  background-color: #400b0b21;
+}
+.element{ 
+  background-color: pink;
+/*   border: 2px ; */
+  width: 70px;
+/*   margin: 20px; */
+  height: 70px;
+  border-radius: 50%;
+  position: absolute;
+}
+#element_one{
+      top: 17%;
+    right: 20px;
+}
+#element_two{
+ bottom: 20px;
+    left: 20%;
+}
+#element_three{
+ right: 20%;
+    bottom: 10%;
+}
+#element_four{
+     top: 50%;
+    left: 40%;
+}
+#element_five{
+     top: 32%;
+  left:12%;
+}
